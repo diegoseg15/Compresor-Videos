@@ -1,0 +1,1 @@
+# Parámetros por códec (CRF/preset)

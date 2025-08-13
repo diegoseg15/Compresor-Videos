@@ -1,0 +1,1 @@
+# Lógica de compresión de un archivo

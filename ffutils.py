@@ -1,0 +1,1 @@
+# Utilidades FFmpeg/ffprobe, validación de extensiones

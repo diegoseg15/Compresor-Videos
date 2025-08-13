@@ -1,0 +1,1 @@
+# Construcción de filtros (downscale, tonemap, formato)
